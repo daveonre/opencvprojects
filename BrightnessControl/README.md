@@ -31,5 +31,4 @@ pip install opencv-python mediapipe numpy screen_brightness_control
 
 **Note:**
 
-* The drowsiness detection using EAR is not implemented in this provided code snippet. 
 * The effectiveness of the brightness control based on hand gestures may vary depending on factors like lighting conditions and camera placement.
